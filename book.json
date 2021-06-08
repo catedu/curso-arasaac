@@ -28,12 +28,12 @@
       "filename": "./FOOTER.md"
     },
     "edit-link": {
-      "base": "https://github.com/catedu/curso-arasaac-new/edit/master",
+      "base": "https://github.com/catedu/curso-arasaac/edit/master",
       "label": "Edita esta página"
     },
     "githubcontributors": {
       "githubOwner": "catedu",
-      "githubRepository": "curso-arasaac-new"
+      "githubRepository": "curso-arasaac"
     },
     "ga": {
       "token": "UA-135691041-2"
