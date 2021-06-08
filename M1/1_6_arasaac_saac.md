@@ -7,7 +7,3 @@ A lo largo de estos años, ARASAAC ha seguido creciendo como sistema pictográfi
 Para conocer las características y la idiosincrasia de ARASAAC continua leyendo en este apartado del Aula Abierta de ARASAAC:
 
 [http://aulaabierta.arasaac.org/arasaac-sistema-pictografico-de-referencia-en-la-caa](http://aulaabierta.arasaac.org/arasaac-sistema-pictografico-de-referencia-en-la-caa)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDY4OTA2MSwyNTk4NDkxLDM5NjQyOD
-gyMF19
--->

@@ -98,6 +98,3 @@ Tal y como se muestra en el tutorial, un posible uso de las páginas de pictogra
 Siguiendo el tutorial y el ejemplo propuesto casi tendremos hecha la tarea que se propone para este módulo:
 
 http://aulaabierta.arasaac.org/picto-selector-15-crear-una-nueva-pagina-de-pictogramas
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MzM2MTA3NCwyMTE1NjMyMzkxXX0=
--->

@@ -15,7 +15,3 @@ Además, todas estas herramientas nos permitirán diseñar y elaborar un amplio 
 Durante el desarrollo del curso, sería importante situarnos en el lugar de las personas con problemas de comunicación para conocer cómo se enfrentan a muchas situaciones cotidianas y ver cómo podemos dar respuesta a sus necesidades en función de sus capacidades.
 
 En definitiva, se trata de conseguir que “la comunicación sea un derecho universal para todas las personas y en todos los contextos”.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzIyNDQ5ODEsMjA5NzAwNjEzMCwxNj
-E3NjU4MzQ3XX0=
--->

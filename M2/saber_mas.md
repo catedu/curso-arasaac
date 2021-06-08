@@ -44,8 +44,3 @@ Nox Player es un software para Windows y Mac que permite instalar y correr Andro
 ![enter image description here](https://static.arasaac.org/images/aularagon/Nox_player.png)
 
 De esta forma, podemos instalar cualquier aplicación de Android sin tener la necesidad de tener una tablet. Por otra parte, al correr bajo nuestro sistema operativo cliente (Windows o Mac) podremos proyectar en una pizarra digital o en proyector.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDAzODM4OSwtMjc1MDU1MDA3LDcwNT
-kxNDA4MCwtMzcxNzE5MzExLDQzOTQ4NzAyMiwtMjAzODMxNjk0
-OV19
--->

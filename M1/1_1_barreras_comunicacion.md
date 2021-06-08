@@ -13,7 +13,3 @@ En estos casos, la comunicación y la comprensión del entorno se convierten en 
 ![enter image description here](https://static.arasaac.org/images/aularagon/barreras_comunicacion_accesibilidad_cognitiva.jpg)
 
 En definitiva estas barreras en la comunicación y en la accesibilidad cognitiva, dificultan la plena integración de estas personas en la sociedad en la que conviven habitualmente. Los Sistemas Aumentativos y Alternativos de Comunicación (SAAC) son formas de expresión diferentes del lenguaje hablado. que tienen como objetivo aumentar (aumentativo) y/o compensar (alternativo) las dificultades de comunicación y el lenguaje de muchas personas con dificultades en este área.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQzNjQxNjc1LC05MDAwNzg5LC0xOTg5Mj
-ExNTY2XX0=
--->

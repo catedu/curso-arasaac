@@ -23,7 +23,3 @@ Un ejemplo a seguir en este sentido ha sido la publicación pionera, seguramente
 Podáis acceder a la orden en el siguiente enlace:
 
 [ORDEN CDS/345/2019, de 9 de abril, por la que se publica el documento de lectura fácil de la Ley de derechos y garantías de las personas con discapacidad en Aragón. (aragon.es)](http://aragonhoy.aragon.es/index.php/mod.documentos/mem.descargar/fichero.documentos_Ley_derechos_y_garantias_de_las_personas_con_discapacidad_en_Aragon_escrito_en_Lectura_Facil_8c6cd28f%232E%23pdf)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NTE0MDE1NywxNjI3MTkxMDQ3LDczMD
-k5ODExNl19
--->

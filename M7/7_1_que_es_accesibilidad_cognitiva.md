@@ -9,6 +9,3 @@ Está claro que la accesibilidad cognitiva es fundamental para personas con auti
 En España, la accesibilidad cognitiva tomó fuerza con la aparición de ARASAAC. Las asociaciones de personas con autismo, las asociaciones de personas con discapacidad y las instituciones educativas solicitaron a las instituciones públicas que en la señalización de espacios y servicios, además de la señalética habitual, se utilizarán también los mismos pictogramas que estas personas tenían en sus cuadernos de comunicación, agendas, rutinas, etc., y que resultaban más comprensibles para ellas.
 
 Así, poco a poco, el uso de los pictogramas de ARASAAC se fue extendiendo a otros ámbitos de la vida cotidiana en los que se consideró preciso adoptar medidas de accesibilidad cognitiva para que todas las personas podamos desenvolvernos en igualdad de condiciones.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTU3OTQzMiw3MzA5OTgxMTZdfQ==
--->

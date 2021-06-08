@@ -7,6 +7,3 @@ Se puede acceder a ellas siguiendo este enlace: [http://old.arasaac.org/herramie
 ![enter image description here](https://static.arasaac.org/images/aularagon/herramientas_online.png)
 
 En este módulo nos vamos a centrar en aprender el funcionamiento de aquellas herramientas online más orientadas a crear recursos para el juego.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MjUxMTAxMyw3MzA5OTgxMTZdfQ==
--->

@@ -30,7 +30,3 @@ Este módulo se divide en cinco unidades:
 4.3 Organizamos nuestra agenda visual
 4.4 Creamos una agenda con PictogramAgenda
 4.5 Creamos un calendario
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NjQxODk4MywtMjUwODU3NTgzLC0yMD
-QxMjM1MzQsNzMwOTk4MTE2XX0=
--->

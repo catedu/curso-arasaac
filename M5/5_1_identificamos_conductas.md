@@ -11,6 +11,3 @@ En muchos casos, el uso de pictogramas puede ayudar a la persona a identificar l
 En el apartado de Materiales de la página web de ARASAAC encontrarás materiales relacionados con este tema:
 
 [http://aulaabierta.arasaac.org/materiales-caa-regulacion-de-la-conducta](http://aulaabierta.arasaac.org/materiales-caa-regulacion-de-la-conducta)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQxMjkzNzMyLDczMDk5ODExNl19
--->

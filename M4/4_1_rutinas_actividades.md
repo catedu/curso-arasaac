@@ -12,7 +12,3 @@ En el apartado de Materiales de la página web de ARASAAC, podrás visualizar al
 
 
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzg0ODkxODEsMjA0MDI5NzYyMiw3Mz
-A5OTgxMTZdfQ==
--->

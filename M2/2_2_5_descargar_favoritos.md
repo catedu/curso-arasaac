@@ -9,6 +9,3 @@ Si hemos iniciado sesión y estamos trabajando como usuarios registrados, podemo
 Para saber todos los detalles de cómo descargar y gestionar el listado de favoritos, es fundamental que sigas las instrucciones de este tutorial del Aula Abierta:
 
 [http://aulaabierta.arasaac.org/descarga-de-pictogramas-y-pictogramas-favoritos-arasaac](http://aulaabierta.arasaac.org/descarga-de-pictogramas-y-pictogramas-favoritos-arasaac)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIyNTY3NCwtNjUwMTMzNDE4XX0=
--->

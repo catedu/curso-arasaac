@@ -12,7 +12,3 @@ Fuente: UNE-EN ISO 9999:2011 Productos de apoyo para personas con discapacidad. 
 
 Los productos de apoyo para la comunicación se dividen en productos básicos o de baja tecnología y productos tecnológicos o de alta tecnología.
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTkwNjIzMywxMTg1OTA2MjMzLDg0Mj
-k4NzQ2OF19
--->

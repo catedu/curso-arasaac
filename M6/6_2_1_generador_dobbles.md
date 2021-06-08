@@ -11,6 +11,3 @@ Picto Selector nos permite acceder a un generador de Doodles interactivos que, d
 Para aprender su funcionamiento te recomendamos que consultes este tutorial que forma parte del manual de Picto Selector en el Aula Abierta:
 
 [http://aulaabierta.arasaac.org/picto-selector-18-generador-dobbles](http://aulaabierta.arasaac.org/picto-selector-18-generador-dobbles)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU2NjMxNjI4LDczMDk5ODExNl19
--->

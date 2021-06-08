@@ -59,7 +59,3 @@ Autor pictogramas: Sergio Palao Procedencia: ARASAAC(https://arasaac.org)
 Licencia: CC BY-NC-SA Autor/a del material: Nombre del autor/a o autores/as
 
 En cualquier caso, la mejor recomendación que se puede hacer es que, en caso de duda, se consulte con el equipo de ARASAAC a través del formulario de contacto de la página web.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNjIwMDM4MywyOTE5MDQ2MTUsODI2MD
-IzNDY4LDE4OTEyOTA3ODldfQ==
--->

@@ -9,7 +9,3 @@ En estos apartados del Aula Abierta, encontrarás ejemplos de tableros, cuaderno
 [http://aulaabierta.arasaac.org/materiales-caa-tableros-de-comunicacion](http://aulaabierta.arasaac.org/materiales-caa-tableros-de-comunicacion)
 
 [http://aulaabierta.arasaac.org/materiales-caa-cuadernos-y-libros-de-comunicacion](http://aulaabierta.arasaac.org/materiales-caa-cuadernos-y-libros-de-comunicacion)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI1MTc0MTQ1LDM2MTIwNjkxMyw2NTAzND
-M4NTddfQ==
--->

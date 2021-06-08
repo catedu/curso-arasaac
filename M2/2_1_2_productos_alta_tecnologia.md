@@ -7,7 +7,3 @@ Los ordenadores, dispositivos móviles (tablet y smartphone) y los comunicadores
 El software que se utiliza en este tipo de productos suele utilizar la voz sintetizada para la salida de los mensajes, incluso funciones de control del entorno en algunos casos.
 
 Al final de este módulo, encontrarás sugerencias de dos apps de comunicadores para instalar en dispositivos móviles.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNjYwNTM0MywtNzI5MTA5NDUsLTEyNT
-I0MDQwMTJdfQ==
--->

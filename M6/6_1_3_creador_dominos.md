@@ -7,6 +7,3 @@ Los dominós adaptados con pictogramas nos permiten trabajar de un modo lúdico 
 Con el creador online podemos generar nuestro propio dominó a partir de la selección de seis pictogramas. Para aprender a utilizar la herramienta te invitamos a que consultes el tutorial del Aula Abierta:
 
 [http://aulaabierta.arasaac.org/herramientas-online-dominos](http://aulaabierta.arasaac.org/herramientas-online-dominos)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MjI3NTE3Myw3MzA5OTgxMTZdfQ==
--->

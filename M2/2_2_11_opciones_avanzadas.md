@@ -7,7 +7,3 @@ Dentro de las opciones más avanzadas que podemos encontrar en la Personalizaci�
 Para conocer su funcionamiento y ver estas opciones en acción te recomendamos accedas a este tutorial del Aula Abierta:
 
 [http://aulaabierta.arasaac.org/personalizacion-opciones-avanzadas-arasaac](http://aulaabierta.arasaac.org/personalizacion-opciones-avanzadas-arasaac)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTU1NDU0MjcsLTM0NjAwNDk2MCwxNT
-A0MjkyMzU4XX0=
--->

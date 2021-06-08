@@ -9,6 +9,3 @@ En estos tableros, planificamos y desglosamos los distintos pasos que componen l
 En este apartado del Aula Abierta de ARASAAC, puedes ver algunos ejemplos de materiales para trabajar la anticipación:
 
 [http://aulaabierta.arasaac.org/materiales-caa-anticipacion](http://aulaabierta.arasaac.org/materiales-caa-anticipacion)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjUzNjU1Nyw3MzA5OTgxMTZdfQ==
--->

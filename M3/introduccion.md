@@ -33,7 +33,3 @@ Este módulo se divide en tres unidades:
 3.2 Adaptamos textos con AraWord
 3.3 Diseñamos actividades con Pictoselector
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjc2NzE3MDksNjc4MjgwOTE4LDczMD
-k5ODExNl19
--->

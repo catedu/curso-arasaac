@@ -6,7 +6,3 @@ Todas las personas que presentan graves dificultades en la comunicación y/o en 
 ![enter image description here](https://static.arasaac.org/images/aularagon/arasaac_users.jpg)
 
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NDQyNDE0OCwtMjA5MjQ1OTczMiwtMT
-M3MDU1MzMyNV19
--->

@@ -47,7 +47,3 @@ Este módulo se divide en seis unidades:
 7.4 Accesibilidad cognitiva con pictogramas en el ámbito sanitario.
 7.5 Accesibilidad cognitiva con pictogramas en las actividades de ocio.
 7.6 Documentos accesibles con pictogramas.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDEzNzQzOSwxNjI1MTgwOTg0LDczMD
-k5ODExNl19
--->

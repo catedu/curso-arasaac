@@ -13,6 +13,3 @@ También son un elemento fundamental para la comunicación bidireccional entre e
 En el apartado de Materiales de la página web de ARASAAC, podrás visualizar algunos ejemplos de distintos tipos de agendas:
 
 [https://arasaac.org/materials/search/agenda](https://arasaac.org/materials/search/agenda)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzM0OTkxMjYsNzMwOTk4MTE2XX0=
--->

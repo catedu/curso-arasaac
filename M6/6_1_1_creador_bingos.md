@@ -17,6 +17,3 @@ Siguiendo estos enlaces podrás ver bingos ya publicados en el catálogo de mate
 [http://aulaabierta.arasaac.org/bingos](http://aulaabierta.arasaac.org/bingos)
 
 [https://arasaac.org/materials/search?offset=0&activity=6](https://arasaac.org/materials/search?offset=0&activity=6)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDkxMTQxNjAsNzMwOTk4MTE2XX0=
--->

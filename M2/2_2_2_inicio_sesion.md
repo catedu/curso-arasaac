@@ -8,7 +8,3 @@ En este tutorial del Aula Abierta podrás aprender cómo hacerlo:
 
 [http://aulaabierta.arasaac.org/inicio-de-sesion-y-acceso-a-mi-perfil-arasaac](http://aulaabierta.arasaac.org/inicio-de-sesion-y-acceso-a-mi-perfil-arasaac)
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk2NDMyODc5LC0yMDk4NzUyMDIxLDE0MD
-MyMzk4M119
--->

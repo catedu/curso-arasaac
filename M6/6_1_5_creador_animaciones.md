@@ -9,6 +9,3 @@ Este tipo de animaciones se utilizan para secuenciar rutinas, para estructurar e
 Para conocer el funcionamiento de la herramienta, te recomendamos consultar este tutorial del Aula Abierta:
 
 [http://aulaabierta.arasaac.org/herramientas-online-creador-de-animaciones](http://aulaabierta.arasaac.org/herramientas-online-creador-de-animaciones)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDQwMzUyMjMsNzMwOTk4MTE2XX0=
--->

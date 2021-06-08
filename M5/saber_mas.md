@@ -12,6 +12,3 @@ El término de “guiones o historias sociales” apareció en los años 90 de l
 ### Bibliografía
 
 Gray C. Leich-White A.: «Mi libro de Historias Sociales«. 2ª ed. Jenison Autism Journal. 2004.16
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMDQwMjYwNCwtMjAzODMxNjk0OV19
--->

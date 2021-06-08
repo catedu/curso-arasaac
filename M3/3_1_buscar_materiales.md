@@ -15,6 +15,3 @@ Otra forma de acceder a gran número de materiales es visitar la sección “Mat
 [http://aulaabierta.arasaac.org/materiales-caa](http://aulaabierta.arasaac.org/materiales-caa) 
 
 En ella se recopilan una selección de los materiales más representativos publicados en ARASAAC organizados por áreas.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc3MTgxNzk4LC0xMTI0ODEwOTUzXX0=
--->

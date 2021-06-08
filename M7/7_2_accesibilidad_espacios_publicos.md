@@ -38,6 +38,3 @@ Aquí tenéis diferentes ejemplos de accesibilidad cognitiva que puedes consulta
 6- [Accesibilidad vial](http://aulaabierta.arasaac.org/archivos/Items%20de%20portfolio/accesibilidad-vial): dentro de este apartado encontramos distintas ciudades y localidades que están utilizando los pictogramas de ARASAAC semáforos o pasos de peatones para que las personas usuarias de pictogramas interpreten correctamente el código de luces de los semáforos y ayudarles, por tanto, a cruzar cuando es posible.
 
 ![enter image description here](https://static.arasaac.org/images/aularagon/Vicar_Almaeria_Pasos_peatones_1-1030x686.jpg)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjMxOTE5NDIsNzMwOTk4MTE2XX0=
--->

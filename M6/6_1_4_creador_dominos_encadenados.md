@@ -7,6 +7,3 @@ El dominó encadenado, a diferencia del dominó tradicional, se caracteriza porq
 Con el creador online podemos generar nuestro propio dominó a partir de la selección de pictogramas que hayamos hecho. Para aprender a utilizar la herramienta te recomendamos que consultes el tutorial del Aula Abierta:
 
 [http://aulaabierta.arasaac.org/herramientas-online-dominos-encadenados](http://aulaabierta.arasaac.org/herramientas-online-dominos-encadenados)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTM1NzQwOSw3MzA5OTgxMTZdfQ==
--->

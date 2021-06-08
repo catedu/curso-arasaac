@@ -16,7 +16,3 @@ Los apartados más importantes de la nueva web son:
 Además, la página web cuenta con otros apartados como el Acerca de (información sobre el proyecto y el equipo ARASAAC), Traductores (personas que colaboran con el proyecto traduciendo la web y los pictogramas de forma totalmente altruista) o un apartado para Desarrolladores (información para acceder vía API al catálogo de pictogramas).
 
 ![enter image description here](https://static.arasaac.org/images/aularagon/nueva_web_arasaac.jpeg)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk4ODAxNTU0LDg4NDUwODUyOSwtMTcwMT
-kxNzk3OF19
--->

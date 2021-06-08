@@ -7,7 +7,3 @@ Otra de las opciones de búsqueda de pictogramas en ARASAAC es utilizar el árbo
 Para saber cómo funciona esta búsqueda, lee el tutorial que encontrarás en esta página del Aula Abierta:
 
 [http://aulaabierta.arasaac.org/busqueda-de-pictogramas-arbol-de-categorias-arasaac](http://aulaabierta.arasaac.org/busqueda-de-pictogramas-arbol-de-categorias-arasaac)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NDY0MjE0MywtMTE3MDE2NDA2MywyMT
-Q0NTA2NDNdfQ==
--->

@@ -11,6 +11,3 @@ La utilización de estos apoyos visuales favorece una experiencia positiva, faci
 Para terminar, siguiendo el enlace al Aula Abierta puedes consultar diferentes ejemplos de accesibilidad cognitiva en el ámbito sanitario:
 
 http://aulaabierta.arasaac.org/ejemplos_uso_sanidad
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTY2ODc3OSw3MzA5OTgxMTZdfQ==
--->

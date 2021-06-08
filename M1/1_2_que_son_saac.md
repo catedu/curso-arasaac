@@ -10,7 +10,3 @@ Los estudios científicos demuestran que no existe ninguna evidencia de que el u
 Continúa leyendo toda la información completa en este apartado de la página web de ARASAAC: 
 
 [https://arasaac.org/aac/](https://arasaac.org/aac/es)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzMwNjA0NzMsNTQzMTk4OTM3LC0xMT
-k5NTY5MDA2XX0=
--->

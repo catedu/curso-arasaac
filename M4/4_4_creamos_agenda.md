@@ -18,6 +18,3 @@ La aplicación PictogramAgenda funciona desde un navegador web ([http://webapp.p
 Para aprender a instalarla y acceder a los videotutoriales, te recomendamos que visites esta página del Aula Abierta de ARASAAC:
 
 [http://aulaabierta.arasaac.org/pictogramagenda-0-inicio](http://aulaabierta.arasaac.org/pictogramagenda-0-inicio)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTAzMDU0MDEsNzMwOTk4MTE2XX0=
--->

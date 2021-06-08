@@ -40,7 +40,3 @@ Este módulo se divide en dos unidades:
 
 2.1 Productos de apoyo para la comunicación
 2.2 Catálogo de pictogramas de ARASAAC
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzMzMjcyNTcsLTEwMTA3NzAxMDEsLT
-E4NzQ5OTQzODYsLTM4NDA3NDQyOV19
--->

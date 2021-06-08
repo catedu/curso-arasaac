@@ -11,6 +11,3 @@ Para conocer el funcionamiento y las opciones de configuración del Creador de J
 En el catálogo de material de ARASAAC, buscado por el tipo de actividad “Juego/Juego de la Oca” puedes ver Juegos de la Oca creados con esta herramienta y compartidos por los colaboradores del portal:
 
 [https://arasaac.org/materials/search?offset=0&activity=16](https://arasaac.org/materials/search?offset=0&activity=16)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNDA4NDcyOSw3MzA5OTgxMTZdfQ==
--->

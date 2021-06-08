@@ -23,6 +23,3 @@ A continuación, os mostramos diferentes ejemplos de accesibilidad cognitiva en 
 -   [Adaptaciones del espacio y del currículo.](http://aulaabierta.arasaac.org/ejemplos_uso_educacion)
 -   [Proyectos de Aprendizaje y Servicio.](http://aulaabierta.arasaac.org/ejemplos_uso_aprendizaje_servicio)
 -   [Unidades didácticas adaptadas con pictogramas](https://arasaac.org/materials/search?offset=0&activity=40)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MTAxNTg2OCw3MzA5OTgxMTZdfQ==
--->

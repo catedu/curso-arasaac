@@ -9,7 +9,3 @@ Cuando navegamos por la web, podemos descargar directamente los pictogramas en f
 Para conocer todos los detalles y posibilidades de la transparencia de los pictogramas os recomendamos leer este tutorial del Aula Abierta:
 
 [http://aulaabierta.arasaac.org/personalizacion-pictogramas-transparentes-arasaac](http://aulaabierta.arasaac.org/personalizacion-pictogramas-transparentes-arasaac)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDQ3MzA4MDYsMTYxMTA2MTY4OCwtMT
-YwNTQ1OTVdfQ==
--->

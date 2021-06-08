@@ -50,7 +50,3 @@ Este módulo se divide en las siguientes unidades:
 -   1.4 Uso de los SAAC
 -   1.5 Origen y evolución de ARASAAC
 -   1.6 ARASAAC como sistema pictográfico de comunicación.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc4MDAyOTE1LC0xODA3NTIwMDQzLC0xOT
-ExNTEzODM2LDQ4NzcwMjg3NywxNzQzNTc2MTQwXX0=
--->

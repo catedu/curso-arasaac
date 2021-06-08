@@ -9,6 +9,3 @@ Dos de estas opciones son la posibilidad de añadir Color de fondo o Marco a los
 Para aprender algo más sobre la clave Fitzgerald y cómo añadir Color de fondo o Marco al pictograma, te aconsejamos que leas detenidamente este tutorial del Aula Abierta:
 
 [http://aulaabierta.arasaac.org/personalizacion-color-de-fondo-y-anadir-marco-arasaac](http://aulaabierta.arasaac.org/personalizacion-color-de-fondo-y-anadir-marco-arasaac)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1OTg2NDM0LDEzMjAzMjc1NV19
--->

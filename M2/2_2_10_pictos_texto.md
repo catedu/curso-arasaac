@@ -9,7 +9,3 @@ Además, el hecho de que los pictogramas de ARASAAC estén traducidos a más de 
 Para conocer todos los pormenores del funcionamiento de esta interesante funcionalidad te recomendamos que sigas este tutorial del Aula Abierta:
 
 [http://aulaabierta.arasaac.org/personalizacion-opciones-de-texto-arasaac](http://aulaabierta.arasaac.org/personalizacion-opciones-de-texto-arasaac)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk1ODI3MDQxLC02NDU0Mzc3NSwtMTg2OD
-I1MDgyM119
--->

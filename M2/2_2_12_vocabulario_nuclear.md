@@ -13,7 +13,3 @@ Para conocer el proyecto y cómo se ha implementado en ARASAAC, es imprescindibl
 [http://aulaabierta.arasaac.org/vocabulario-utac-cace](http://aulaabierta.arasaac.org/vocabulario-utac-cace)
 
 [http://aulaabierta.arasaac.org/vocabulario-nuclear-arasaac](http://aulaabierta.arasaac.org/vocabulario-nuclear-arasaac)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMjk5MzQ0LC0xNzQ5MDQ1NzczLDEwOT
-YxNDUyNl19
--->

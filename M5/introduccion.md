@@ -28,7 +28,3 @@ Este módulo se divide en dos unidades:
 
 5.1 Identificamos conductas adecuadas e inadecuadas
 5.2 Comprendemos situaciones con las Historias Sociales
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDE0MjM5MSwtMzY3MTQwMzA5LDczMD
-k5ODExNl19
--->

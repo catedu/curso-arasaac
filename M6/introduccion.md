@@ -74,7 +74,3 @@ Este módulo se divide en dos unidades:
 
 6.2.1 Generador de Dobles
 6.2.2 Plantilla de dados
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NzU2MjUzOSwxMzQzMTI1NzcsNzMwOT
-k4MTE2XX0=
--->

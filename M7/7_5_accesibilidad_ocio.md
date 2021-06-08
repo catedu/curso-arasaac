@@ -59,6 +59,3 @@ Para conocer más ejemplos de accesibilidad cognitiva en este ámbito puedes con
 -   [Cultura](http://aulaabierta.arasaac.org/ejemplos_uso_cultura)
 -   [Restauración](http://aulaabierta.arasaac.org/ejemplos_uso_restauracion)
 -   [Ocio](http://aulaabierta.arasaac.org/ejemplos_uso_ocio)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzQ1MjM4Miw3MzA5OTgxMTZdfQ==
--->

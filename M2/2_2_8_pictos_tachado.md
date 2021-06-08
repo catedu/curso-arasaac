@@ -7,7 +7,3 @@ En algunas ocasiones, es interesante remarcar que una acción no es adecuada o q
 Para ello es necesario el tachado del pictograma que, tradicionalmente, ha sido una labor complicada y que nos ha llevado mucho tiempo.
 
 Así que visualizad el siguiente tutorial para aprender a hacerlo de forma más sencilla: [http://aulaabierta.arasaac.org/personalizacion-tachado-arasaac](http://aulaabierta.arasaac.org/personalizacion-tachado-arasaac)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzODYyNzgxOSwtMzQ3Mjg5MTI3LDE2Nj
-Q5NDA5NzldfQ==
--->

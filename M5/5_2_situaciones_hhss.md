@@ -13,6 +13,3 @@ En el Aula Abierta de ARASAAC, te explicamos qué son las historias sociales y t
 En el siguiente enlace de la página web de ARASAAC, encontrarás todas las historias sociales disponibles en el apartado de Materiales:
 
 https://arasaac.org/materials/search?offset=0&activity=30
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEwNjEzOTk3LDczMDk5ODExNl19
--->

@@ -14,7 +14,3 @@ Esta aplicación permite crear cinco diferentes tipos de contadores de tiempo: a
 
 La App puede ser descargada desde la web enlazada o desde la [Google Play](https://play.google.com/store/apps/details?id=es.uvigo.gti.settime&gl=ES).
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NDc0NzQyNiwtODk5MjUyOTEwLC0yMD
-M4MzE2OTQ5XX0=
--->

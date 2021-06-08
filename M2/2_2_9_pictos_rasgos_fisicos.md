@@ -11,6 +11,3 @@ Para dar respuesta a estas dos demandas se ofrece la opción “Rasgos físicos�
 Podemos conocer y poner en práctica esta opción, tienes que visitar este tutorial del Aula Abierta:
 
 [http://aulaabierta.arasaac.org/personalizacion-rasgos-fisicos-arasaac](http://aulaabierta.arasaac.org/personalizacion-rasgos-fisicos-arasaac)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjk1NDM4MzAsMTY4ODAyMzc5M119
--->

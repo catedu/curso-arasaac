@@ -19,7 +19,3 @@ Belinchón, S., Casas, S. , Díez, C. y Tamarit, J. (2014) – MECD/CNIIE. Madri
 
 - «Accesibilidad cognitiva: Guía de recomendaciones» FEAPS Madrid (Plena Inclusión Madrid)
 [https://arasaac.org/materials/es/3559](https://arasaac.org/materials/es/3559)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTU2ODE2ODMsLTIwMzgzMTY5NDldfQ
-==
--->
