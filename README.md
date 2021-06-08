@@ -1,60 +1,21 @@
-# Instrucciones para publicar un libro con gitbook
+# PRESENTACIÓN
 
-**Si estás actualmente** en la url https://github.com/catedu/curso-tipo/ clica en el botón verde arriba a la derecha "Use this template" y sigue los siguientes pasos. Si no creas este repositorio bajo el usuario `catedu` deberás [añadir un `PERSONAL_TOKEN_GITBOOK_ACTION`](https://docs.github.com/en/actions/reference/encrypted-secrets) para que la integración contínua funcione.
+Este curso pretende sensibilizar a los docentes acerca de la importancia de la Comunicación Aumentativa y Alternativa (CAA) para muchas personas que, por distintos factores (autismo, discapacidad intelectual, desconocimiento del idioma, personas mayores, etc.), presentan graves dificultades en la comunicación, el acceso al currículo y la accesibilidad cognitiva, lo que dificulta su plena inclusión en cualquier ámbito de la vida cotidiana.
 
-**Si estás ya en el repo** pasa al siguiente apartado.
+La utilización de Sistemas Aumentativos y Alternativos de Comunicación (SAAC), la elaboración de materiales adaptados y el diseño de software específico nos ayuda a romper estas barreras comunicativas y a facilitar la plena inclusión de la persona en el entorno en el que se desenvuelve habitualmente.
 
-## Añadiendo archivos
+Partiendo de seis áreas fundamentales en el desarrollo de toda persona, como son la comunicación, la organización del espacio, la estructuración del tiempo, la regulación de la conducta y el aprendizaje de habilidades sociales, el aprendizaje de contenidos curriculares y el desarrollo del juego, veremos cómo el uso de los pictogramas y de los materiales adaptados beneficia no sólo a las personas con dificultades comunicativas, sino que también benefician a muchos otras personas que se encuentran a su alrededor, ya que el lenguaje visual es universal y colateral a la sociedad en la que vivimos.
 
-Crea una carpeta por cada capítulo y guarda en ellas los archivos .md que crees. [Aquí](https://markdown.es/sintaxis-markdown/) tienes una guía del formato Markdown. Para que se generen debes enlazarlos en el archivo `SUMMARY.md`. Puedes seguir el ejemplo prepoblado que ya viene con este repo.
+Sobre esta base teórica del curso, se asienta la parte práctica que estará centrada en el conocimiento y manejo de todos los recursos y herramientas que nos ofrece el portal ARASAAC (https://arasaac.org), principalmente, en el uso de los pictogramas como eje dinamizador de todo el curso.
 
-## Editando FOOTER
+Otro de los objetivos del curso será conocer herramientas de software y apps específicas que utilizan los pictogramas de ARASAAC y explorar las utilidades que pueden tener dentro de nuestras aulas o de nuestro entorno inmediato.
 
-Para cambiar los datos del footer hay que tocar dos archivos: `book.json` y `FOOTER.md`.
+Además, todas estas herramientas nos permitirán diseñar y elaborar un amplio abanico de materiales educativos para las diferentes áreas de desarrollo de nuestros alumnos/as (comunicación, curricular, social, ocio,….).
 
-```js
-// book.json
-"variables": {
-    "title": "__________",
-    "authors": [
-      "_____________",
-      "________________"
-    ],
-    "collaborators": [
-      {
-        "name": "_________",
-        "edited": "_____________"
-      }
-    ]
-  },
-```
+Durante el desarrollo del curso, sería importante situarnos en el lugar de las personas con problemas de comunicación para conocer cómo se enfrentan a muchas situaciones cotidianas y ver cómo podemos dar respuesta a sus necesidades en función de sus capacidades.
 
-En el `FOOTER.md` concretamente las etiquetas sólo habría que tocar `{{ book.authors[0] }}` si tuviéramos más de un autor.
-
-## Integración contínua
-
-En el archivo `.github/workflows/gitbook-action.yml`, da nombre al libro que quieres que se genere **sin especificar la extensión**.
-
-```yml
-  ...
-    source_dir: .
-    gitbook_pdf: true
-    gitbook_pdf_name: <nombre-del-libro-sin-extension>
-    gitbook_epub: true
-    gitbook_epub_name: <nombre-del-libro-sin-extension>
-    gitbook_mobi: true
-    gitbook_mobi_name: <nombre-del-libro-sin-extension>
-```
-
-### ¡Y ya estás listo para publicar! 📣 📡
-
-Cada vez que hagas push a la rama `master` volverá a generar los archivos estáticos en la rama gh-pages, quedando la versión web actualizada del libro publicada en la url https://`<nombre-de-la-cuenta>`.io/`<nombre-del-repo>` y las versiones en formato epub, pdf y mobi en las url https://github.com/`<nombre-de-la-cuenta>`/`<nombre-del-repo>`/raw/gh-pages/mybook/`<nombre-del-libro-sin-extension>`.`<formato>`
-    
-Por ejemplo, esta plantilla está disponible en formato web en https://catedu.github.io/curso-tipo/ y las versiones descargable quedan publicadas en las siguientes urls:
-* https://github.com/catedu/curso-tipo/raw/gh-pages/mybook/curso-tipo.epub
-* https://github.com/catedu/curso-tipo/raw/gh-pages/mybook/curso-tipo.mobi
-* https://github.com/catedu/curso-tipo/raw/gh-pages/mybook/curso-tipo.pdf
-
-## ¡Atención!
-
-La generación de la versión actualizada tras cada push puede tardar hasta 15 minutos.
+En definitiva, se trata de conseguir que “la comunicación sea un derecho universal para todas las personas y en todos los contextos”.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwMzIyNDQ5ODEsMjA5NzAwNjEzMCwxNj
+E3NjU4MzQ3XX0=
+-->

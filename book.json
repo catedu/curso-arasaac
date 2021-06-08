@@ -10,10 +10,10 @@
   ],
   "language": "es",
   "variables": {
-    "title": "__________",
+    "title": "ARASAAC",
     "authors": [
-      "_____________",
-      "________________"
+      "David Romero Corral",
+      "José Manuel Marcos Rodrigo"
     ],
     "collaborators": [
       {
@@ -28,12 +28,12 @@
       "filename": "./FOOTER.md"
     },
     "edit-link": {
-      "base": "https://github.com/catedu/<nombre-del-repo>/edit/master",
+      "base": "https://github.com/catedu/curso-arasaac-new/edit/master",
       "label": "Edita esta página"
     },
     "githubcontributors": {
       "githubOwner": "catedu",
-      "githubRepository": "<nombre-del-repo>"
+      "githubRepository": "curso-arasaac-new"
     },
     "ga": {
       "token": "UA-135691041-2"
